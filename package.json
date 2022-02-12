@@ -1,0 +1,18 @@
+{
+  "name": "zdungeon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html -p 8080"
+  },
+  "dependencies": {
+    "kaboom": "0.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "alias": {
+    "kaboom": "./node_modules/kaboom/dist/kaboom.mjs"
+  }
+}

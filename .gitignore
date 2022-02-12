@@ -1,0 +1,9 @@
+.idea/
+.cache/
+yarn-error.log
+.DS_Store
+node_modules/
+dist/*.html
+dist/*.js
+
+
